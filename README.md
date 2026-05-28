@@ -1,5 +1,7 @@
 # 🩺 Breast Cancer Prediction System
 
+**Live Demo**: [🔗 Open App on Hugging Face](https://huggingface.co/spaces/Joannes10/breast-cancer-predictor)
+
 A robust **Machine Learning** web application that predicts whether a breast mass is **Benign** or **Malignant** based on Fine Needle Aspirate (FNA) features.
 
 ![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -18,6 +20,15 @@ A robust **Machine Learning** web application that predicts whether a breast mas
 - **Prediction Report Download**
 - Input validation and error handling
 - Comprehensive feature explanations
+
+## 📸 Screenshots
+
+| Main Interface | Prediction Result | Feature Importance |
+|----------------|-------------------|--------------------|
+| ![Main Interface](<img width="1889" height="928" alt="Screenshot 2026-05-27 145736" src="https://github.com/user-attachments/assets/ef6971f5-5de9-4439-affa-8ae99de425d3" /> 
+) | ![Prediction](<img width="1889" height="927" alt="Screenshot 2026-05-27 145932" src="https://github.com/user-attachments/assets/cd99387a-6b85-4a71-b72d-c4ac9e47347e" />
+) | ![Feature Importance](<img width="1881" height="943" alt="Screenshot 2026-05-28 105238" src="https://github.com/user-attachments/assets/1abca9be-5d8f-4120-91c4-26797f994358" />
+)|
 
 ## 📊 Model Performance
 
